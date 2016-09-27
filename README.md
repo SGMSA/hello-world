@@ -8,7 +8,7 @@
 
 This is [an example] [id] reference-style link.
 
-[id]: https:www.google.co.uk/ "Google home page"
+[id]: /GitHub-Logo1.png/ "GitHub Logo"
 
 ### Placing Images
 
