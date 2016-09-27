@@ -16,6 +16,8 @@ This is [an example] [id] reference-style link.
 
 ![Referencing Example][id1]
 
+It can aslo be displayed at a reference like this
+
 [id1]: /GitHub_Logo2.png/  "Referencing Example"
 
 ### Code Blocks
