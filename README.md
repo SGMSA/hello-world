@@ -38,11 +38,7 @@ You can also ' write inline code blocks '
 And looks like this
     
 | Here          | Is a          | Table	|
-    
 | ------------- | :-----------: | ----: |
-    
 | col 3 is      | right-aligned | $1600 |
-    
 | col 2 is      | centered      |   $12 |
-    
 | zebra stripes | are neat      |    $1 | 
