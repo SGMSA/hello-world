@@ -14,9 +14,9 @@ This is [an example] [id] reference-style link.
 
 ![Example 1](/GitHub-Logo1.png/ "Example")
 
-![Referencing Example][id1]
+!This is a [Referencing Example][id1]
 
-[id1]: /GitHub-Logo1.png/  "Referencing Example"
+[id1]: /GitHub-Logo2.png/  "Referencing Example"
 
 ### Code Blocks
 
